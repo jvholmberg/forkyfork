@@ -1,0 +1,22 @@
+{
+  "name": "forkyfork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "hugo && gh-pages -d public && rm -rf public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvholmberg/forkyfork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvholmberg/forkyfork/issues"
+  },
+  "homepage": "https://github.com/jvholmberg/forkyfork",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
