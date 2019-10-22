@@ -3,15 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.forkyfork.com/categories/</loc>
+    <loc>https://forkyfork.com/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.forkyfork.com/</loc>
+    <loc>https://forkyfork.com/post/hello-world/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.forkyfork.com/tags/</loc>
+    <loc>https://forkyfork.com/tags/hugo/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://forkyfork.com/tags/myself/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://forkyfork.com/post/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://forkyfork.com/tags/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://forkyfork.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://forkyfork.com/categories/</loc>
   </url>
   
 </urlset>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>forkyfork</title>
-    <link>https://forkyfork.com/</link>
-    <description>Recent content on forkyfork</description>
+    <title>Posts on forkyfork</title>
+    <link>https://forkyfork.com/post/</link>
+    <description>Recent content in Posts on forkyfork</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://forkyfork.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://forkyfork.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>https://forkyfork.com/post/hello-world/</guid>
       <description>Okay so to be completely honest I don&amp;rsquo;t really have a plan for this site. Is it supposed to be a blog or just something static occupying my domain, I don&amp;rsquo;t know&amp;hellip;
 I just accidently stumbled upon this thing called hugo that is a tool for generating websites and wanted to give it a go. And here we are now. So far it seems pretty neat, this thing took about 10mins to get up and running.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://forkyfork.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://forkyfork.com/about/</guid>
-      <description>My name is Johan Holmberg and I come from a small village about 2 miles outside of Älmhult. You might have heard of it, You know the place where IKEA is from. Well enough about that.
-I have been working as a developer for the last 5 years and is currently employed by Sigma which is a large consultancy bureu here in Sweden. There I am a member of a team which specialize in frontend technologies.</description>
     </item>
     
   </channel>
