@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "hugo && gh-pages -d public && rm -rf public"
+		"deploy": "npm run build && gh-pages -d public && npm run clean",
+		"build": "hugo && echo 'forkyfork.com' >> public/CNAME",
+		"clean": "rm -rf public"
   },
   "repository": {
     "type": "git",
