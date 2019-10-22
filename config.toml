@@ -2,7 +2,7 @@ baseURL = "https://forkyfork.com/"
 languageCode = "en-GB"
 title = "forkyfork"
 theme = "minimal"
-disqusShortname = "forkyfork" # delete this to disable disqus comments
+disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
