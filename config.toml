@@ -28,7 +28,7 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.main]]
-    url = "/posts/"
+    url = "/post/"
     name = "Posts"
     weight = 3
 
@@ -61,5 +61,3 @@ googleAnalytics = ""
     url = "mailto:johan@forkyfork.com"
     name = "envelope-o"
     weight = 5
-
-	[[data.pages]]
